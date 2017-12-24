@@ -1,0 +1,9 @@
+c:\users\andrey\documents\visual studio 2015\Projects\Filldipl\Filldipl\bin\Debug\Filldipl.exe.config
+C:\Users\Andrey\documents\visual studio 2015\Projects\Filldipl\Filldipl\obj\Debug\Filldipl.csproj.ResolveComReference.cache
+C:\Users\Andrey\documents\visual studio 2015\Projects\Filldipl\Filldipl\obj\Debug\Filldipl.Form1.resources
+C:\Users\Andrey\documents\visual studio 2015\Projects\Filldipl\Filldipl\obj\Debug\Filldipl.Properties.Resources.resources
+C:\Users\Andrey\documents\visual studio 2015\Projects\Filldipl\Filldipl\obj\Debug\Filldipl.csproj.GenerateResource.Cache
+C:\Users\Andrey\documents\visual studio 2015\Projects\Filldipl\Filldipl\bin\Debug\Filldipl.exe
+C:\Users\Andrey\documents\visual studio 2015\Projects\Filldipl\Filldipl\bin\Debug\Filldipl.pdb
+C:\Users\Andrey\documents\visual studio 2015\Projects\Filldipl\Filldipl\obj\Debug\Filldipl.exe
+C:\Users\Andrey\documents\visual studio 2015\Projects\Filldipl\Filldipl\obj\Debug\Filldipl.pdb
